@@ -1,0 +1,10 @@
+
+1. Source: https://github.com/salt-die/Advent-of-Code/blob/master/2020/visuals/trees_day_07.py
+
+Tree structure of the contents of certain bag
+
+2. Source: https://github.com/Andriamanitra/adventofcode2020/blob/main/day07/graph.cr
+
+Graph: https://svgshare.com/i/S7i.svg
+
+DAG with graphviz 

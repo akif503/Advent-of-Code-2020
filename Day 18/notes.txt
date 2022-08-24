@@ -1,0 +1,7 @@
+Alternate Solution 1:
+The main idea is to directly evaluate the expression. The way we do it using PEMDAS. So, it first evalutes the inner bracket segments. She uses an inner function for doing it. The inner function is basically evaluating an expression using the precedence rule (here doing +/* first according to the precedence rule).
+
+- Create a function which can evaluate an expression without using any postfix notation
+- Then add the bracketing condition, and evaluate the expression inside the brackets using that function.
+
+** Use str(eval(m.group(0))) in lieu of the lambdas

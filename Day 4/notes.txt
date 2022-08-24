@@ -1,0 +1,3 @@
+Use all
+
+Perfect case for regex
